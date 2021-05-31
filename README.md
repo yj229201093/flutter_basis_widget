@@ -9,10 +9,12 @@ flutter_basis_widget
     3、image_text_widget
     4、gesturedetector_widget
     5、button_widget
+    6、追加中...
     公共样式类
     1、color
     2、font
     3、style
+    4、追加中...
 
 ## 使用
     class DemoPage extends StatelessWidget {
