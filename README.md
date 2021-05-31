@@ -19,8 +19,8 @@ flutter_basis_widget
     4、追加中...
 
 ## 展示
-    ![Image](https://github.com/yj229201093/flutter_basis_widget/blob/5b2f7d3467ea429328ad055c9557dc79edf10d64/WechatIMG57.png)
-    ![](https://raw.githubusercontent.com/zhangyudan/beautiful_stars/master/image/1.png)
+
+    ![效果](https://github.com/yj229201093/flutter_basis_widget/WechatIMG57.png)
 
 
 ## 使用
