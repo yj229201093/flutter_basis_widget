@@ -20,8 +20,8 @@ flutter_basis_widget
 
 ## 展示
 
-    ![效果](https://github.com/yj229201093/flutter_basis_widget/blob/main/WechatIMG57.png)
-    ![效果](https://raw.githubusercontent.com/yj229201093/flutter_basis_widget/main/WechatIMG57.png)
+    ![image](https://github.com/yj229201093/flutter_basis_widget/blob/main/WechatIMG57.png)
+    ![image](https://raw.githubusercontent.com/yj229201093/flutter_basis_widget/main/WechatIMG57.png)
 
 
 ## 使用
