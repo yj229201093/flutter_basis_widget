@@ -2,19 +2,25 @@
 
 flutter_basis_widget
 
-## flutter 基础组件封装
+## flutter 基础组件封装(只适用于常用的样式组件，如果要涉及组件的很多属性，暂时不太好用，慢慢完善中...)
     目前包含以下组件
-    1、text_widget 包含回调
-    2、image_widget
-    3、image_text_widget
-    4、gesturedetector_widget
-    5、button_widget
+    1、text_widget 文本组件，可点击文本回调事件
+    2、image_widget 图文文本，传图片名称即可
+    3、image_text_widget 图文组件，四种风格（上图下文，下图上问，左图右文，右图左文）
+    4、gesturedetector_widget 手势点击事件，单击
+    5、button_widget 文本按钮组件
+    6、divider_widget 分割线组件 垂直和水平
+    7、text_imagetext_widget 文本和图文结合组件
     6、追加中...
     公共样式类
-    1、color
-    2、font
-    3、style
+    1、color 常用的颜色值
+    2、font  常用的字体
+    3、style 常用的样式和装饰
     4、追加中...
+
+## 展示
+
+
 
 ## 使用
     class DemoPage extends StatelessWidget {
@@ -62,4 +68,6 @@ flutter_basis_widget
         );
       }
     }
+
+
 
