@@ -19,8 +19,7 @@ flutter_basis_widget
     4、追加中...
 
 ## 展示
-   ![Image discription] https://github.com/yj229201093/flutter_basis_widget/blob/5b2f7d3467ea429328ad055c9557dc79edf10d64/WechatIMG57.png
-
+    ![Image text](https://github.com/yj229201093/flutter_basis_widget/blob/5b2f7d3467ea429328ad055c9557dc79edf10d64/WechatIMG57.png)
 
 ## 使用
     class DemoPage extends StatelessWidget {
