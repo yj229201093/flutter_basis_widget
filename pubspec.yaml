@@ -1,7 +1,8 @@
 name: flutter_basis_widget
 description: flutter_basis_widget
 version: 0.0.1
-homepage:
+authors: JanYang
+homepage: https://github.com/yj229201093/flutter_basis_widget
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
