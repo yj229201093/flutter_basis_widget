@@ -52,18 +52,13 @@ class YJImageTextWidget extends StatelessWidget {
     switch (imageDirection) {
       case ImageDirection.LEFT:
         return _buildLeftImageRightTextWidget();
-        break;
       case ImageDirection.TOP:
         return _buildTopImageBottomTextWidget();
-        break;
       case ImageDirection.RIGHT:
         return _buildRightImageLeftTextWidget();
-        break;
       case ImageDirection.BOTTOM:
         return _buildBottomImageTopTextWidget();
-        break;
     }
-    return _buildTopImageBottomTextWidget();
   }
 
   /// 左图片右文本
